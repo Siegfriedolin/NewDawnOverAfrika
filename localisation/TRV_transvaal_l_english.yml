@@ -1,4 +1,7 @@
 ﻿l_english: 
+TRV_democracy_party_bond:0 "Afrikaner Bond"
+TRV_party_of_african_unity:0 "African Unity Party"
+  #########################################
 TRV_expand_gold_production:0 "Expand Gold Production"
 TRV_expand_gold_production_desc:0 "South Africa has some of the richest gold mines on earth, and it doesn't seem like they'll run out any time in the near future. This sector is a perfect candidate for investment."
 TRV_griqualand_infrastructure:0 "Griqualand Infrastructure"
